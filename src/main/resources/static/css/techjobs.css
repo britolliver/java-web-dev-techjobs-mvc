@@ -44,3 +44,9 @@ label {
 .centered {
     text-align: center;
 }
+
+p.padding {
+
+    padding-right: 70px;
+
+}
